@@ -18,10 +18,6 @@ This project contains a collection of microservices designed to work together an
     ```bash
     cd microservices
     ```
-3. Bring up the Docker containers:
-    ```bash
-    docker-compose up
-    ```
 
 ## Usage
 
